@@ -1,0 +1,36 @@
+{
+  "schema": "final-road-work-v1",
+  "course": "CS110",
+  "name": "isaias gonzalez",
+  "work": {
+    "project": "A story worth playing",
+    "path": "story",
+    "selected": [
+      "save"
+    ],
+    "engine": "Unity / C#",
+    "gitEvidence": "What ran was the notes I made in this website, and it was pushed to the github that was given at the beginning.",
+    "ai": "The AI tool that will be used in the making of this will be ChatGPT",
+    "aiVerify": "I would use the AI tool to check and recheck it myself incase the AI made an error",
+    "notes": "What I can bring to the project is to help develop the building structure of the world and if necessary help making the code",
+    "plan": "",
+    "availability": "",
+    "service": "",
+    "role": "Building structures",
+    "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "huddle": {
+      "stage": 0,
+      "returned": false,
+      "goal": "",
+      "personal": "",
+      "questions": ""
+    },
+    "evidence": {},
+    "tasks": [],
+    "dailyNotes": []
+  }
+}
